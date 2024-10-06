@@ -140,6 +140,11 @@ by L. D. Landau, A. I. Kitaigorodsky
 20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
 21. [Basic Concepts Of Quantum Mechanics](https://archive.org/details/tarasov-basic-concepts-of-quantum-mechanics-2021) by L. V. Tarasov
 
+## Библиотеки
+
+* https://libeldoc.bsuir.by
+
+
 
 
 
