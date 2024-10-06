@@ -21,7 +21,7 @@
 13. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984)  by A. V. Efimov; B. P. Demidovich
 14. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988/page/185/mode/2up) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
 15. [Mathematical Handbook – Elementary Mathematics](https://archive.org/details/VygodskyElementaryMathematicalHandbook) by M. Vygodsky
-16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov
+16. [Основные понятия теории вероятностей](https://ikfia.ysn.ru/wp-content/uploads/2018/01/Kolmogorov1974ru.pdf) А. Н. Колмогоров
 17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk) by Elena Wentzel
 18. [Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin](https://archive.org/details/MeasureLebesgueIntegralsAndHilbertSpace) by Kolmorogov and Fomin [pdf](https://mega.nz/file/u9sByChZ#3Da0G_3yMUZ8pcBL_7hdQgNngKsBBSCAdMMgelcjJck)
 19. [The method of mathematical induction](https://archive.org/details/The.Method.Of.Mathematical.InductionSominskii1961) by Sominskii
