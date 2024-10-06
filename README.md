@@ -1,4 +1,4 @@
-# Awesome_Math_Books
+# Потрясающие Книги по Математике
 
 ## [Table of Contents]()
 
@@ -11,7 +11,7 @@
 3. [Principles of Mathematical Analysis](https://archive.org/details/principlesofmath00rudi) by Walter Rubin
 4. [What is mathemarics](https://www.cimat.mx/~gil/docencia/2017/mate_elem/%5BCourant,Robbins%5DWhat_Is_Mathematics(2nd_edition_1996)v2.pdf) by Richard Courand and Herbert Robbins
 5. [Introduction to matrix analysis](https://eclass.uoa.gr/modules/document/file.php/MATH553/%5BRichard_Bellman%5D_Introduction_to_Matrix_Analysis%2C%28BookFi.org%29.pdf) by Richard Bellman
-6. [Combinatorial mathematics for recreation](https://archive.org/details/VilenkinCombinatorialMathematics) Vilenkin
+6. [Популярная Комбинаторика](https://65.edubish.kg/wp-content/uploads/sites/28/2020/06/vilenkin-n.-ya.-populyarnaya-kombinatorika.pdf) Н.Я.Виленкин
 7. [Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
 8. [Collection ofproblems in probability theory](https://gwern.net/doc/statistics/probability/1973-meshalkin-collectionofproblemsinprobabilitytheory.pdf) by Meshalkin
 9. [Algebra](https://archive.org/details/algebra-gelfand-1) by Gelfand and Shen
@@ -111,7 +111,7 @@ by M. Krasnov, A. Kiselev, G. Makarenko
 100.  [Introduction To Topology](https://archive.org/details/borisovichbliznyakovizrailevichfomenkointroductiontotopologymir)
 by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 101. [Challenging Mathematical Problems With Elementary Solutions Vol. 1](https://archive.org/details/yaglom-yaglom-challenging-mathematical-problems-with-elementary-solutions-vol.-1) by A. M. Yaglom; I. M. Yaglom
-     
+
 
 
 ## Physics
@@ -122,12 +122,12 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 5. [A Collection Of Questions And Problems In Physics](https://archive.org/details/ACollectionOfQuestionsAndProblemsInPhysics) by Sens
 6. [Basic Laws Of Electromagnetism](https://archive.org/details/IrodovBasicLawsOfElectromagnetism) by I. E. Irodov
 7. [Fundamentals of physics](https://archive.org/details/b.-m.-yavorsky-a.-a.-pinsky-fundamentals-of-physics-volume-1-mir-1975) by Yavorski and Pinsky
-8. [Collected Problems In Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up) 
+8. [Collected Problems In Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up)
 by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 9. [General Methods For Solving Physics Problems](https://archive.org/details/BelikovGeneralMethodsForSolvingPhysicsProblems) by B. S. Beliko
 10. [Basic Electricity And Electronics](https://archive.org/details/popov-nikolaev-basic-electricity-and-electronics-mir) by V. S. Popov; S. A. Nikolaev
 11. [Selected Problems On Physics](https://archive.org/details/MyasnikovOsanovaSelectedProblemsOnPhysics) by S. P. Myasnikov, T. N. Osanova
-12. [Collection Of Problems In Classical Mechanics](https://archive.org/details/kotkin-serbo-collection-of-problems-in-classical-mechanics) 
+12. [Collection Of Problems In Classical Mechanics](https://archive.org/details/kotkin-serbo-collection-of-problems-in-classical-mechanics)
 by G. L. Kotkin; V. G. Serbo
 13. [Lectures in analytical mechanics](https://archive.org/details/f.-gantmacher-lectures-in-analytical-mehcanics-mir-1975/mode/2up) by Felix Gantmacher 🔥🔥🔥🔥🔥
 14. [Physics for Everyone - Book 1 - Physical Bodies](https://archive.org/details/PhysicsForEveryone-Book1-PhysicalBodies)
@@ -140,9 +140,9 @@ by L. D. Landau, A. I. Kitaigorodsky
 20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
 21. [Basic Concepts Of Quantum Mechanics](https://archive.org/details/tarasov-basic-concepts-of-quantum-mechanics-2021) by L. V. Tarasov
 
-   
 
- 
- 
+
+
+
 
 
