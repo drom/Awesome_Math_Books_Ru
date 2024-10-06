@@ -13,7 +13,7 @@
 5. [Introduction to matrix analysis](https://eclass.uoa.gr/modules/document/file.php/MATH553/%5BRichard_Bellman%5D_Introduction_to_Matrix_Analysis%2C%28BookFi.org%29.pdf) by Richard Bellman
 6. [Популярная Комбинаторика](https://65.edubish.kg/wp-content/uploads/sites/28/2020/06/vilenkin-n.-ya.-populyarnaya-kombinatorika.pdf) Н.Я.Виленкин
 7. [Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
-8. [Collection ofproblems in probability theory](https://gwern.net/doc/statistics/probability/1973-meshalkin-collectionofproblemsinprobabilitytheory.pdf) by Meshalkin
+8. [Сборник задач по теории вероятностей](https://ikfia.ysn.ru/wp-content/uploads/2018/01/Meshalkin1963ru.pdf) Л. Д. Мешалкин
 9. [Algebra](https://archive.org/details/algebra-gelfand-1) by Gelfand and Shen
 10. [Kolmogorov Complexity and Algorirhmic Randomness](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) by Shen, Uspensky, Vereschagin
 11. [Mathematical Analysis – A Brief Course For Engineering Students](https://archive.org/details/bermant-aramanovich-mathematical-analysis-a-breif-course-for-engineering-students/page/503/mode/2up) by A.F . Bermant; I. G. Aramanovich
